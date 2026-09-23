@@ -2,7 +2,8 @@
 
 Proyecto académico desarrollado para el curso de Modelado y Automatización de Procesos Empresariales de la Pontificia Universidad Católica del Perú.
 El proyecto analiza procesos operativos de una aerolínea mediante levantamiento de información, modelado BPMN y simulación de procesos, con el objetivo de identificar oportunidades de mejora y automatización.
-Para el entregable final se profundizó en los procesos de Despegue y monitoreo de sistemas y Aterrizaje del avión, dos procesos interdepartamentales que involucran coordinación entre diferentes actores de la operación aérea.     MAPE Proyecto Integrador (Final…
+Para el entregable final se profundizó en los procesos de Despegue y monitoreo de sistemas y Aterrizaje del avión, dos procesos interdepartamentales que involucran coordinación entre diferentes actores de la operación aérea. 
+
 ## Procesos analizados
 
 Durante el proyecto se trabajó con procesos vinculados a la operación aérea.
